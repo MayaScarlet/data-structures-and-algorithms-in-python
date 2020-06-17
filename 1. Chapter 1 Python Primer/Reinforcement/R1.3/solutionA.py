@@ -1,0 +1,2 @@
+def minmax(data):
+    pass
